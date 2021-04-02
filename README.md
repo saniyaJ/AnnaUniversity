@@ -25,4 +25,5 @@ Natural language proessing.
 3.	Hands-on session
 
 **Session 4: (03-04-2021)  **      Timing: (04:00PM–5:30 PM) 
-Spam Classifier project demo
+
+1.  Spam Classifier project demo
